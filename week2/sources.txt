@@ -10,3 +10,4 @@ https://devblogs.microsoft.com/scripting/weekend-scripter-modify-dns-settings-vi
 https://learn.microsoft.com/en-us/powershell/module/dnsserver/add-dnsserverprimaryzone?view=windowsserver2022-ps
     dhcp
 https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-deploy-wps
+https://learn.microsoft.com/en-us/powershell/module/dhcpserver/add-dhcpserverv4failover?view=windowsserver2022-ps
