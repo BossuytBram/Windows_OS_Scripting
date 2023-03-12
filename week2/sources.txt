@@ -1,0 +1,12 @@
+    new member of domain:
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/add-computer?view=powershell-5.1
+    DC1 creation
+https://mikefrobbins.com/2012/10/13/use-powershell-to-create-a-new-active-directory-forest-on-windows-2012-server-core-installation-no-gui/
+    DC2 adding
+https://mikefrobbins.com/2013/03/14/use-powershell-to-add-an-additional-domain-controller-to-an-existing-windows-server-2012-active-directory-domain/
+    dns
+https://devblogs.microsoft.com/scripting/weekend-scripter-modify-dns-settings-via-windows-powershell/
+    reverse lookup
+https://learn.microsoft.com/en-us/powershell/module/dnsserver/add-dnsserverprimaryzone?view=windowsserver2022-ps
+    dhcp
+https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-deploy-wps
