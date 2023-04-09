@@ -1,0 +1,1 @@
+Install-WindowsFeature "FS-DFS-Replication", "RSAT-DFS-Mgmt-Con"

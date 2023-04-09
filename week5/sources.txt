@@ -1,0 +1,8 @@
+https://learn.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview
+https://learn.microsoft.com/en-us/windows-server/storage/dfs-replication/dfsr-overview
+https://learn.microsoft.com/en-us/powershell/module/dfsn/new-dfsnroot?view=windowsserver2022-ps
+https://learn.microsoft.com/en-us/powershell/module/dfsn/new-dfsnfolder?view=windowsserver2022-ps
+https://learn.microsoft.com/en-us/powershell/module/dfsn/remove-dfsnroot?view=windowsserver2022-ps
+
+
+https://learn.microsoft.com/en-us/powershell/module/dfsr/?view=windowsserver2022-ps
